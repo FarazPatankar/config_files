@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.light (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Material Theme",
+		"Vintage"
+	],
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_large": true,
+	"theme": "Spacegray Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
